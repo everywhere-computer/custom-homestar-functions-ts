@@ -1,0 +1,23 @@
+{
+  "name": "custom-functions",
+  "version": "0.0.1",
+  "description": "Custom TypeScript functions to be used with the `every cli`",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fission",
+    "ec",
+    "everywhere-computer",
+    "homestar"
+  ],
+  "author": "Fission <support@fission.codes>",
+  "license": "Apache-2.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.16"
+  }
+}
