@@ -10,4 +10,4 @@ This repo is place to store custom TypeScript functions to be used in [Homestar]
 ## Adding a custom function to the [every-cli](https://github.com/everywhere-computer/every-cli)
 
 1. Install the `every` CLI by running `npm i -g @everywhere-computer/every-cli`
-2. Run the CLI and point it to your custom function using `every dev --fn <ABSOLUTE_PATH_TO_YOUR_TS_FUNCTION_FILE>` (This will soon support relative paths).
+2. Run the CLI and point it to your custom function using `every dev --fn <PATH_TO_YOUR_TS_FUNCTION_FILE>`.
